@@ -79,13 +79,14 @@ public class Diksha extends Developer {
 
 <div align="center">
 
-|                                                      🏗️ Project                                                     |                                                        💡 What it does                                                        |               🔧 Tech               |
-| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| [**Student Management System**](https://github.com/Diksha-source14/Student-Management-System-JSP-Servlet-JDBC-MySQL) |       Web-based application to manage student records with registration, login, profile management, and CRUD operations.      | JSP · Servlet · JDBC · MySQL · Java |
-|                [**Book Management System**](https://github.com/Diksha-source14/Book-Management-System)               |                Library management application for managing books, records, and database operations efficiently.               | JSP · Servlet · JDBC · MySQL · Java |
-|          [**Restaurant Management System**](https://github.com/Diksha-source14/Restaurant-Management-System)         | Restaurant management application for handling menu items, orders, billing, and database operations using CRUD functionality. |         Java · JDBC · MySQL         |
+|                                                      🏗️ Project                                                     |                                                                💡 What it does                                                                |                🔧 Tech               |
+| :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
+| [**Student Management System**](https://github.com/Diksha-source14/Student-Management-System-JSP-Servlet-JDBC-MySQL) |               Web-based application to manage student records with registration, login, profile management, and CRUD operations.              |  JSP · Servlet · JDBC · MySQL · Java |
+|                [**Book Management System**](https://github.com/Diksha-source14/Book-Management-System)               |    Developed a book management application for handling book records, inventory management, and CRUD operations with database persistence.    | Java · Hibernate ORM · Maven · MySQL |
+|          [**Restaurant Management System**](https://github.com/Diksha-source14/Restaurant-Management-System)         | Restaurant management application for managing menu items through CRUD operations with efficient database connectivity and record management. |          Java · JDBC · MySQL         |
 
 </div>
+
 
 
 ## 📊 GitHub Stats
