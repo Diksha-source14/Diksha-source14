@@ -79,16 +79,14 @@ public class Diksha extends Developer {
 
 <div align="center">
 
-|                                                      🏗️ Project                                                     |                                                  💡 What it does                                                  |               🔧 Tech               |
-| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| [**Student Management System**](https://github.com/Diksha-source14/Student-Management-System-JSP-Servlet-JDBC-MySQL) | Web-based application to manage student records with registration, login, profile management, and CRUD operations | JSP · Servlet · JDBC · MySQL · Java |
-|                [**Book Management System**](https://github.com/Diksha-source14/Book-Management-System)               |          Library management application for managing books, records, and database operations efficiently          | Java · JSP · Servlet · JDBC · MySQL |
-|   [**Real-Time Collaborative Editor**](https://github.com/Diksha-source14/REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR)   |                   Multiple users edit documents live — changes sync instantly across all screens                  |  JavaScript · HTML · CSS · Node.js  |
-|                      [**Chat Application**](https://github.com/Diksha-source14/CHAT-APPLICATION)                     |                                 Real-time messaging system built during internship                                |       HTML · CSS · JavaScript       |
-|                       [**API Integration**](https://github.com/Diksha-source14/API-INTEGRATION)                      |                                 Hands-on third-party REST API integration project                                 |              JavaScript             |
-|                     [**Music Player**](https://github.com/Diksha-source14/CodeAlpha_MusicPlayer)                     |                 Fully functional music player application with audio controls and playlist support                |       HTML · CSS · JavaScript       |
+|                                                      🏗️ Project                                                     |                                                        💡 What it does                                                        |               🔧 Tech               |
+| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| [**Student Management System**](https://github.com/Diksha-source14/Student-Management-System-JSP-Servlet-JDBC-MySQL) |       Web-based application to manage student records with registration, login, profile management, and CRUD operations.      | JSP · Servlet · JDBC · MySQL · Java |
+|                [**Book Management System**](https://github.com/Diksha-source14/Book-Management-System)               |                Library management application for managing books, records, and database operations efficiently.               | JSP · Servlet · JDBC · MySQL · Java |
+|          [**Restaurant Management System**](https://github.com/Diksha-source14/Restaurant-Management-System)         | Restaurant management application for handling menu items, orders, billing, and database operations using CRUD functionality. |         Java · JDBC · MySQL         |
 
 </div>
+
 
 ## 📊 GitHub Stats
 
